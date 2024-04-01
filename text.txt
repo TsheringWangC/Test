@@ -5,5 +5,3 @@ my feature from dev 2
 my feature from dev 
 I am adding a stash line no one
 I am adding a stash new line
-I am adding a stash line
-I am adding a stash line
