@@ -3,14 +3,5 @@ adding new line code
 New branch old code
 my feature from dev 2
 my feature from dev 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-I am adding a stash line no one
-I am adding a stash new line
-new line
-=======
 I am adding a stash line
->>>>>>> Stashed changes
-=======
-I am adding a stash line
->>>>>>> Stashed changes
+code for git revert
